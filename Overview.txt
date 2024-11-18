@@ -1,0 +1,10 @@
+This file serves as a summary of your project and helps others understand what it's about. 
+
+# Car Analysis Project
+
+## Overview
+This project analyzes a dataset of car classifieds to:
+- Clean and prepare raw data for analysis.
+- Detect suspicious rows and inconsistencies in the data.
+- Generate insights on engine types, pricing trends, and mileage impact.
+
